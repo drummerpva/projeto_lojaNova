@@ -1,0 +1,193 @@
+
+27/11/2018 22:22:19 PagSeguro.Session[info]: Begin
+27/11/2018 22:22:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:22:20 PagSeguro.Session[info]: Session ID: 828fcbd26fe8465b9a50f250cc08d839
+27/11/2018 22:24:10 PagSeguro.Session[info]: Begin
+27/11/2018 22:24:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:24:12 PagSeguro.Session[info]: Session ID: 19bdcda0107348568f7f31a21837ef10
+27/11/2018 22:29:52 PagSeguro.Session[info]: Begin
+27/11/2018 22:29:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:29:53 PagSeguro.Session[info]: Session ID: 3b13203dae954a48990ccac785d1a977
+27/11/2018 22:34:18 PagSeguro.Session[info]: Begin
+27/11/2018 22:34:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:34:20 PagSeguro.Session[info]: Session ID: 207b101838f047f29100690e57bef358
+27/11/2018 22:43:08 PagSeguro.Session[info]: Begin
+27/11/2018 22:43:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:43:09 PagSeguro.Session[info]: Session ID: 028f4aea7432406b9fabd3bc56590150
+27/11/2018 22:45:05 PagSeguro.Session[info]: Begin
+27/11/2018 22:45:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:45:06 PagSeguro.Session[info]: Session ID: 9afd360263a44a9cb455d5b70a8d529c
+27/11/2018 22:45:36 PagSeguro.Session[info]: Begin
+27/11/2018 22:45:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:45:37 PagSeguro.Session[info]: Session ID: 944d0f3301f245f88fb2504a109dd35d
+27/11/2018 22:47:48 PagSeguro.Session[info]: Begin
+27/11/2018 22:47:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:47:49 PagSeguro.Session[info]: Session ID: 7f59427266614686bfde10e93aa05269
+27/11/2018 22:48:01 PagSeguro.Session[info]: Begin
+27/11/2018 22:48:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:48:02 PagSeguro.Session[info]: Session ID: 483f459223084dc38f83b8e664ddd203
+27/11/2018 22:52:26 PagSeguro.Session[info]: Begin
+27/11/2018 22:52:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:52:27 PagSeguro.Session[info]: Session ID: 915b3f85d044440eaf9a7b536e37148b
+27/11/2018 22:54:14 PagSeguro.Session[info]: Begin
+27/11/2018 22:54:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:54:15 PagSeguro.Session[info]: Session ID: c3a1de2e7252434a9b21c5b8ce0049ed
+27/11/2018 22:55:27 PagSeguro.Session[info]: Begin
+27/11/2018 22:55:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:55:28 PagSeguro.Session[info]: Session ID: 47ebc8a621e244e588098f875300aab8
+27/11/2018 22:56:47 PagSeguro.Session[info]: Begin
+27/11/2018 22:56:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 22:56:48 PagSeguro.Session[info]: Session ID: 37db7889179147f489de1a075be9dc88
+27/11/2018 23:06:37 PagSeguro.Session[info]: Begin
+27/11/2018 23:06:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:06:38 PagSeguro.Session[info]: Session ID: 1a735003aa574d50b1030967978018d9
+27/11/2018 23:07:34 PagSeguro.Session[info]: Begin
+27/11/2018 23:07:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:07:36 PagSeguro.Session[info]: Session ID: 7ee19d43235c4859888f411229e630dd
+27/11/2018 23:08:26 PagSeguro.Session[info]: Begin
+27/11/2018 23:08:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:08:27 PagSeguro.Session[info]: Session ID: d26797d8ef4243f09e384ed08a61c083
+27/11/2018 23:09:40 PagSeguro.Session[info]: Begin
+27/11/2018 23:09:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:09:41 PagSeguro.Session[info]: Session ID: 1cd3710001a64541b94d9ce391a73480
+27/11/2018 23:11:41 PagSeguro.Session[info]: Begin
+27/11/2018 23:11:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:11:42 PagSeguro.Session[info]: Session ID: e8cdf0b3380049c78e020fb4e7373ea7
+27/11/2018 23:11:56 PagSeguro.Session[info]: Begin
+27/11/2018 23:11:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:11:57 PagSeguro.Session[info]: Session ID: 440116936e8d431db27d4a5780c62704
+27/11/2018 23:15:27 PagSeguro.Session[info]: Begin
+27/11/2018 23:15:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:15:29 PagSeguro.Session[info]: Session ID: 3de74ee640034fe6acd4a49809cd474b
+27/11/2018 23:16:04 PagSeguro.Session[info]: Begin
+27/11/2018 23:16:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:16:06 PagSeguro.Session[info]: Session ID: c80f517a785c4cecaec2a4d3e06419ca
+27/11/2018 23:28:40 PagSeguro.Session[info]: Begin
+27/11/2018 23:28:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:28:45 PagSeguro.Session[info]: Session ID: 6f1ba13e0e0b4999b238ace1f6c56940
+27/11/2018 23:29:45 PagSeguro.Session[info]: Begin
+27/11/2018 23:29:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:29:46 PagSeguro.Session[info]: Session ID: d843ac1df54f45fba7a78bc79185c282
+27/11/2018 23:32:25 PagSeguro.Session[info]: Begin
+27/11/2018 23:32:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:32:26 PagSeguro.Session[info]: Session ID: 09bd5f451d214574aeab6cdc46559720
+27/11/2018 23:32:42 PagSeguro.Session[info]: Begin
+27/11/2018 23:32:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:32:44 PagSeguro.Session[info]: Session ID: d261d4ba40d04daf9eb3c75ad0291261
+27/11/2018 23:32:58 PagSeguro.Session[info]: Begin
+27/11/2018 23:32:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:32:58 PagSeguro.Session[info]: Session ID: dba1ea2055774acf8f672416f749308c
+27/11/2018 23:34:00 PagSeguro.Session[info]: Begin
+27/11/2018 23:34:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:34:01 PagSeguro.Session[info]: Session ID: 2c0d22bb38d44494bd8c9596345644f4
+27/11/2018 23:34:31 PagSeguro.Session[info]: Begin
+27/11/2018 23:34:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:34:32 PagSeguro.Session[info]: Session ID: 115f6a4933134573a831d9e143b18927
+27/11/2018 23:35:06 PagSeguro.Session[info]: Begin
+27/11/2018 23:35:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:35:07 PagSeguro.Session[info]: Session ID: 6409db18247b451ba5086978b51b5316
+27/11/2018 23:35:46 PagSeguro.Session[info]: Begin
+27/11/2018 23:35:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:35:47 PagSeguro.Session[info]: Session ID: a6ed080f5b784f0a9e35397be947c572
+27/11/2018 23:36:10 PagSeguro.Session[info]: Begin
+27/11/2018 23:36:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:36:11 PagSeguro.Session[info]: Session ID: 877b2e7f25584846a9d0350dfe634879
+27/11/2018 23:44:29 PagSeguro.Session[info]: Begin
+27/11/2018 23:44:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+27/11/2018 23:44:30 PagSeguro.Session[info]: Session ID: 1f43245f44b246a9a18660b3333bba91
+28/11/2018 00:06:27 PagSeguro.Session[info]: Begin
+28/11/2018 00:06:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:06:28 PagSeguro.Session[info]: Session ID: a1916cb2923a4831b39c74cd18885f44
+28/11/2018 00:07:07 PagSeguro.Session[info]: Begin
+28/11/2018 00:07:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:07:09 PagSeguro.Session[info]: Session ID: 71fd1345bf614137b8783d1a83ef2df3
+28/11/2018 00:07:24 PagSeguro.Session[info]: Begin
+28/11/2018 00:07:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:07:26 PagSeguro.Session[info]: Session ID: 38d368c18a124772ad06b0aae0933f71
+28/11/2018 00:07:32 PagSeguro.Session[info]: Begin
+28/11/2018 00:07:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:07:33 PagSeguro.Session[info]: Session ID: a9f7615b861041e29c23949e1d73e9bb
+28/11/2018 00:08:33 PagSeguro.Session[info]: Begin
+28/11/2018 00:08:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:08:34 PagSeguro.Session[info]: Session ID: 33e9b6bd5e7a4e94850abfe1d5e27576
+28/11/2018 00:14:17 PagSeguro.Session[info]: Begin
+28/11/2018 00:14:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:14:19 PagSeguro.Session[info]: Session ID: ee5139f8c28648dfa7d636d927753198
+28/11/2018 00:19:42 PagSeguro.Session[info]: Begin
+28/11/2018 00:19:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:19:43 PagSeguro.Session[info]: Session ID: fa5d6cd2c58640b2aa393f5cc0190a65
+28/11/2018 00:20:32 PagSeguro.Session[info]: Begin
+28/11/2018 00:20:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:20:33 PagSeguro.Session[info]: Session ID: a92f39fa7ac04aa2bdab572ef25d4c15
+28/11/2018 00:28:50 PagSeguro.Session[info]: Begin
+28/11/2018 00:28:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:28:52 PagSeguro.Session[info]: Session ID: 65b7c0b34d474894bde5c554a4a4bcbc
+28/11/2018 00:43:05 PagSeguro.Session[info]: Begin
+28/11/2018 00:43:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:43:06 PagSeguro.Session[info]: Session ID: 76ff6018eb844729bc61e60f093caea6
+28/11/2018 00:43:55 PagSeguro.Session[info]: Begin
+28/11/2018 00:43:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:43:56 PagSeguro.Session[info]: Session ID: 891b9c038c71462693b7d558c4484b19
+28/11/2018 00:44:25 PagSeguro.Session[info]: Begin
+28/11/2018 00:44:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:44:27 PagSeguro.Session[info]: Session ID: 58433a06286442f0b7d09e64e1dc5b4c
+28/11/2018 00:47:30 PagSeguro.Session[info]: Begin
+28/11/2018 00:47:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:47:31 PagSeguro.Session[info]: Session ID: 44e5854f78cc4fd68727d8d09e8e36de
+28/11/2018 00:47:39 PagSeguro.Session[info]: Begin
+28/11/2018 00:47:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 00:47:40 PagSeguro.Session[info]: Session ID: 33d7ce3186ef452ba74894357f2cbca9
+28/11/2018 02:21:10 PagSeguro.Session[info]: Begin
+28/11/2018 02:21:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 02:21:11 PagSeguro.Session[info]: Session ID: ec5f05d4577c45a9a64c5b66b1d117a3
+28/11/2018 04:48:33 PagSeguro.Session[info]: Begin
+28/11/2018 04:48:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 04:48:34 PagSeguro.Session[info]: Session ID: 240df95a3f0f47b4b70380c025d5b775
+28/11/2018 04:50:03 PagSeguro.Session[info]: Begin
+28/11/2018 04:50:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 04:50:04 PagSeguro.Session[info]: Session ID: 79890e7695944d7bbc3798e79d41c311
+28/11/2018 04:53:38 PagSeguro.Session[info]: Begin
+28/11/2018 04:53:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 04:53:38 PagSeguro.Session[info]: Session ID: bfe5c5cc2e8841d7a5cbb017a18226a5
+28/11/2018 04:53:48 PagSeguro.Session[info]: Begin
+28/11/2018 04:53:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 04:53:49 PagSeguro.Session[info]: Session ID: 855b4460950341b692418c8138d4cd47
+28/11/2018 05:13:49 PagSeguro.Session[info]: Begin
+28/11/2018 05:13:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 05:13:50 PagSeguro.Session[info]: Session ID: 8dbb6644ac8240448f17b13760212a25
+28/11/2018 05:16:01 PagSeguro.Session[info]: Begin
+28/11/2018 05:16:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 05:16:02 PagSeguro.Session[info]: Session ID: f2b326b3e4e94227a2b22eb901cce21e
+28/11/2018 05:17:57 PagSeguro.Session[info]: Begin
+28/11/2018 05:17:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 05:17:58 PagSeguro.Session[info]: Session ID: 1ac191cbdb214c49a321e74b806c9e82
+28/11/2018 05:40:46 PagSeguro.Session[info]: Begin
+28/11/2018 05:40:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=v68410705679052206731%40sandbox.pagseguro.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 05:40:47 PagSeguro.Session[error]: Unauthorized
+28/11/2018 05:41:20 PagSeguro.Session[info]: Begin
+28/11/2018 05:41:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+28/11/2018 05:41:21 PagSeguro.Session[info]: Session ID: 5ec9f5e5981d4709a62c55d394dcbcc8
+29/11/2018 23:12:27 PagSeguro.Session[info]: Begin
+29/11/2018 23:12:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+29/11/2018 23:12:28 PagSeguro.Session[info]: Session ID: 81ab59b73a264254b2bf6739712a2039
+29/11/2018 23:26:10 PagSeguro.Session[info]: Begin
+29/11/2018 23:26:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+29/11/2018 23:26:11 PagSeguro.Session[info]: Session ID: c643fb43f4d44ec5a06d6b57be8cdaf5
+29/11/2018 23:26:14 PagSeguro.Session[info]: Begin
+29/11/2018 23:26:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+29/11/2018 23:26:17 PagSeguro.Session[info]: Session ID: 11578d4a85b244c4bf019ec8578f5d83
+29/11/2018 23:33:36 PagSeguro.Session[info]: Begin
+29/11/2018 23:33:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+29/11/2018 23:33:36 PagSeguro.Session[info]: Session ID: 07d962402c06486bab87cb2a52f2fdb9
+29/11/2018 23:37:29 PagSeguro.Session[info]: Begin
+29/11/2018 23:37:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+29/11/2018 23:37:31 PagSeguro.Session[info]: Session ID: 1b57d41475d1435cbea6e3283a3979f6
+29/11/2018 23:41:21 PagSeguro.Session[info]: Begin
+29/11/2018 23:41:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+29/11/2018 23:41:22 PagSeguro.Session[info]: Session ID: 431fde5c5fda45fc92326c558b0a0b6e
+30/11/2018 01:00:20 PagSeguro.Session[info]: Begin
+30/11/2018 01:00:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+30/11/2018 01:00:20 PagSeguro.Session[info]: Session ID: f52140663b674266b11d2f39ffc3a18b
+30/11/2018 01:27:32 PagSeguro.Session[info]: Begin
+30/11/2018 01:27:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=pia_da_lan%40yahoo.com.br&token=C94D50122E9447AABB81CEFF605C905F
+30/11/2018 01:27:33 PagSeguro.Session[info]: Session ID: 81611967ec03487893e028263cca446e
